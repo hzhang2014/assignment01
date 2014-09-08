@@ -1,4 +1,4 @@
-# **MICRBIOL 612:  Microbial Informatics**
+### **MICRBIOL 612:  Microbial Informatics**
 ***
 
 **Instructor**:  Patrick D. Schloss, PhD    
