@@ -27,4 +27,4 @@
 
 **Additional materials.** Supplemental YouTube videos and online tutorials will be assigned.
  
-**Software.** You will need to install R and Rstudio
+**Software.** You will need to install [R](http://mirrors.nics.utk.edu/cran/) and [Rstudio](http://www.rstudio.com/)
