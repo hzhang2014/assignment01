@@ -19,11 +19,11 @@ Microbial Informatics will consist of two hours of lecture per week plus a two-h
 **Grading.**  
 Grades will be assigned based on students’ performance in the Friday laboratories (50%) and the two projects (25% each). The first project will require students to recreate a data analysis from one of their lab’s recent publications. The second project will require students to create a package to perform a useful function that their laboratory will benefit from.
 
-**Text books.** Students should obtain the following books:    
-1. Buffalo, V (2014). *Bioinformatics Data Skills*. [O'Reilly](http://shop.oreilly.com/product/0636920030157.do)     
-2. Dalgaard, P (2008).  *Introductory Statistics with R*, 2nd edition. [pdf](http://www.academia.dk/BiologiskAntropologi/Epidemiologi/PDF/Introductory_Statistics_with_R__2nd_ed.pdf), [Amazon](http://www.amazon.com/Introductory-Statistics-R-Computing/dp/0387954759)     
-3. Matloff, N  (2011).  *The Art of R Programming*. [pdf](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCAQFjAA&url=http%3A%2F%2Fsens.tistory.com%2Fattachment%2Fcfile8.uf%402375DC3D515423F9110CA1.pdf&ei=E-8FVO6dAYmnggSttoD4Bg&usg=AFQjCNE1UmWRG3i9ugNDSXN2WjRSTkkUjA&sig2=U958L8LG42vuhHdPKKBHHw&bvm=bv.74115972,d.eXY), [Amazon](http://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843/ref=sr_1_1?s=books&ie=UTF8&qid=1409674972&sr=1-1&keywords=the+art+of+r+programming)     
-4. Chacon, S (2010). *ProGit*. [online book](http://git-scm.com/book), [Amazon](http://www.amazon.com/Pro-Git-Scott-Chacon/dp/1430218339)
+**Text books.** (Students should obtain the following books:)    
+1. Buffalo, V (2014). *Bioinformatics Data Skills*. [[O'Reilly](http://shop.oreilly.com/product/0636920030157.do)]     
+2. Dalgaard, P (2008).  *Introductory Statistics with R*, 2nd edition. [[PDF](http://www.academia.dk/BiologiskAntropologi/Epidemiologi/PDF/Introductory_Statistics_with_R__2nd_ed.pdf), [Amazon](http://www.amazon.com/Introductory-Statistics-R-Computing/dp/0387954759)]     
+3. Matloff, N  (2011).  *The Art of R Programming*. [[PDF](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCAQFjAA&url=http%3A%2F%2Fsens.tistory.com%2Fattachment%2Fcfile8.uf%402375DC3D515423F9110CA1.pdf&ei=E-8FVO6dAYmnggSttoD4Bg&usg=AFQjCNE1UmWRG3i9ugNDSXN2WjRSTkkUjA&sig2=U958L8LG42vuhHdPKKBHHw&bvm=bv.74115972,d.eXY), [Amazon](http://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843/ref=sr_1_1?s=books&ie=UTF8&qid=1409674972&sr=1-1&keywords=the+art+of+r+programming)]     
+4. Chacon, S (2010). *ProGit*. [[Online book](http://git-scm.com/book), [Amazon](http://www.amazon.com/Pro-Git-Scott-Chacon/dp/1430218339)]
 
 **Additional materials.**   
 Supplemental YouTube videos and online tutorials will be assigned.
