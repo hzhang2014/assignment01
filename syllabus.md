@@ -2,11 +2,11 @@
 ***
 
 **Instructor**:  Patrick D. Schloss, PhD    
-**Office hours**:  Mondays (3:00-5:00 PM) in 1520A MSRB I
+**Office hours**:  Mondays (3:00-5:00 PM) in 1520A [MSRB I](https://www.google.com/maps/place/Medical+Science+Research+Bldg+I,+Ann+Arbor,+MI+48109/@42.2845966,-83.7342511,17z/data=!3m1!4b1!4m2!3m1!1s0x883cae690be95279:0x6d7896411c184fb8)
 
 **Lectures**:  Tuesdays and Thursdays (10:00-11:00 AM)    
 **Laboratory**:  Fridays (1:30-3:30 PM)     
-**Location**: 5623 Med Sci II
+**Location**: 5623 [Med Sci II](https://www.google.com/maps/place/Medical+Science+Unit+II,+Ann+Arbor,+MI+48109/@42.2842595,-83.7337699,17z/data=!3m1!4b1!4m2!3m1!1s0x883cae69a83e69f9:0x3efc30219f999d37)
 
 
 
